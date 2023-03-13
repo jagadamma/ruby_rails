@@ -478,3 +478,53 @@ docker compose -f docker-compose.yml --env-file app.env build
 docker compose -f docker-compose.yml --env-file .env build
 git init
 docker compose build
+git init
+docker compose build
+ls
+docker compose run web bundle
+docker compose run web rake db:create
+docker compose up
+docker compose build
+git commit --allow-empty -n -m "Initial commit."
+git config --global --edit
+git commit --allow-empty -n -m "Initial commit."
+git add .
+git commit -m "Initial commit
+git commit -m "Initial commit"
+docker compose build
+docker system prune
+docker compose build
+docker compose run web rake db:create
+docker compose run web rake db:migrate
+docker compose up
+bundle exec rails webpacker:install 
+gem install bundler -v '< 2'
+bundle exec rails webpacker:install 
+gem install bundler -v '< 2.5.9'
+gem install bundler -v '< 2.6.0'
+bundle exec rails webpacker:install 
+sudo dpkg -r --force-depends ruby-thor
+sudo gem install thor
+sudo dpkg -r --force-depends ruby-thor
+sudo yum  -r --force-depends ruby-thor
+sudo yum  --force-depends ruby-thor
+sudo yum ruby-thor
+sudo gem install thor
+ bundle exec rails webpacker:install 
+curl https://raw.githubusercontent.com/rails/webpacker/master/lib/install/config/webpacker.yml > config/webpacker.yml
+bundle exec rake webpacker:install
+vim Dockerfile 
+docker compose build
+docker compose  up
+vim appspec.yml
+ls
+vim after_install.sh
+vim before_install.sh
+vim after_install.sh
+vim before_install.sh
+ls
+vim after_install.sh
+vim before_install.sh
+vim after_install.sh
+ls
+vim appspec.yml 
