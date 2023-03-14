@@ -528,3 +528,37 @@ vim before_install.sh
 vim after_install.sh
 ls
 vim appspec.yml 
+ls
+vim appspec.yml 
+vim before_install.sh 
+vim appspec.yml 
+vim after_install.sh 
+vim appspec.yml 
+vim app_start.sh
+service nginx start
+service nginx stop
+ls
+git init
+vim app_start.sh 
+git add .
+git commit -m "added all files
+git commit -m "added all files"
+git push https://github.com/jagadamma/ruby_rails.git
+ git push --set-upstream https://github.com/jagadamma/ruby_rails.git master
+git push https://github.com/jagadamma/ruby_rails.git
+ git push --set-upstream https://github.com/jagadamma/ruby_rails.git master
+sudo yum update -y
+sudo yum install ruby -y
+sudo yum install wget
+wget https://aws-codedeploy-us-east-1.s3.amazonaws.com/latest/install
+chmod +x ./install
+sudo ./install auto
+history 
+docker system purne
+docker system prune
+docker compose run web rake db:create
+docker system prune
+docker compose run web rake db:create
+docker system prune
+docker compose run web rake db:create
+docker compose run web rake db:migrate
